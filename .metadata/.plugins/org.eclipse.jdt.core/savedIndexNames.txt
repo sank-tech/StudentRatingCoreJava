@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+D:\STS Workspace\Case Studies\CoreJAVA\.metadata\.plugins\org.eclipse.jdt.core
+1773750641.index
+1865797976.index
+3361198876.index
+3504998490.index
+1088627464.index
